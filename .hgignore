@@ -1,0 +1,24 @@
+syntax: glob
+Build
+build
+Temp
+obj
+vs
+*.asset
+*.meta
+*.suo
+*.ogg
+*.sln
+*.sln.docstates
+*.csproj
+*.unityproj
+*.pidb
+*.userprefs
+*.DS_Store]
+*.dwlt
+*.orig
+*.orig.meta
+*.log
+Library
+ProjectSettings
+*-csharp.sln.*/
